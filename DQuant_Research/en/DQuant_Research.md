@@ -1,6 +1,15 @@
-# Comparison of Volatility Forecasts from Machine Learning Models and Conditional Heteroskedasticity Models
-Denis Makarov | 04/06/2026 | DQuant
-Keywords: machine learning, volatility, conditional heteroskedasticity, volatility forecast
+<div align="center">
+  <h3>Comparison of Volatility Forecasts from Machine Learning Models and Conditional Heteroskedasticity Models</h3>
+</div>
+<div align="right">
+  <h4>Denis Makarov</h4>
+</div>
+<div align="center">
+  <h4>(04/06/2026)</h4>
+  <h4>DQuant</h4>
+  <h4>Keywords: machine learning, volatility, conditional heteroskedasticity, volatility forecast</h4>
+</div>
+
 ---
 
 ## 1 Abstract
