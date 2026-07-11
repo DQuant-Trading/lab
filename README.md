@@ -1,10 +1,10 @@
-# DQuant Lab
+# DQuant Research
 
-**DQuant Lab** is the open research hub of the [DQuant](https://dquant.space/) ecosystem — a public space for papers, experiments, and practical notes on volatility forecasting and quantitative analysis.
+**DQuant Research** is the open research hub of the [DQuant](https://dquant.space/) ecosystem — a public space for papers, experiments, and practical notes on volatility forecasting and quantitative analysis.
 
 Unlike the library documentation, Lab goes deeper: model comparisons, benchmarks on real market data, applied workflows, and methodology explained in plain language.
 
-**Live page:** [dquant.space/lab](https://dquant.space/lab/)
+**Live page:** [dquant.space/research](https://dquant.space/lab/)
 
 ---
 
